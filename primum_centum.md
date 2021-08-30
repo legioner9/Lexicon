@@ -52,7 +52,7 @@
     speculum      - зеркало
     cardinalis    - основной
     bene          - вариант
-
+    praeambulum   - преамбула
     primum centum - первые сто
     successus     - успех
     defectum      - провал
@@ -60,6 +60,8 @@
     primum        - начало
     numero        - считать
     faex          - грязь
+    causa         - причина
+    filium        - мотив
 
 
     unus          - один
