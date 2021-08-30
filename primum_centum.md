@@ -62,6 +62,7 @@
     faex          - грязь
     causa         - причина
     filium        - мотив
+    explicationes - пояснения
 
 
     unus          - один
