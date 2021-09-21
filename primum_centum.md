@@ -63,6 +63,8 @@
     causa         - причина
     filium        - мотив
     explicationes - пояснения
+    adipiscing    - склад
+    locus         - помещение
 
 
     unus          - один
