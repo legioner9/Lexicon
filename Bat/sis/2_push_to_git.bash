@@ -2,7 +2,10 @@
 
 . $HOME/.bashrc
 
-filename="/home/st/ProjectRepo_2/_repo/Lexicon/Bat/sis/2_push_to_git.bash"
+name_this_repo="$(basename $(dirname $(dirname "$(pwd)")))"
+echo -e "${GREEN}\$name_this_repo = $name_this_repo${NORMAL}" #print variable
+
+filename="$HOME/ProjectRepo_2/_repo/$name_this_repo/Bat/sis/2_push_to_git.bash"
 
 echo -e "${HLIGHT}---start file: $filename--${NORMAL}" # start file
 
@@ -10,24 +13,20 @@ echo -e "${HLIGHT}---start file: $filename--${NORMAL}" # start file
 
 # up_lib_git
 
-# e_git
 
-name_this_repo="$(basename $(dirname $(dirname "$(pwd)")))"
-echo -e "${GREEN}\$name_this_repo = $name_this_repo${NORMAL}" #print variable
-echo -e "${GREEN}\$(pwd) = $(pwd)${NORMAL}" #print variable
+if [ $name_this_repo == "communis" ]; then
 
+    echo -e "${ULINE}. $repo_path/_repo/$name_this_repo/Bat/sis/this_hooks.sh${NORMAL}" #repit commands
+    . $repo_path/_repo/$name_this_repo/Bat/sis/this_hooks.sh
 
-# echo -e "${ULINE}. $repo_path/_repo/$name_this_repo/Bat/sis/this_hooks.sh${NORMAL}" #repit commands
-# . $repo_path/_repo/$name_this_repo/Bat/sis/this_hooks.sh
+    echo -e "${ULINE}pre_push${NORMAL}" #repit commands
+    pre_push $repo_path $did
 
-# echo -e "${ULINE}pre_push${NORMAL}" #repit commands
-# pre_push $repo_path $name_this_repo
-
-# unset pre_push
+    unset pre_push
+fi
 
 # echo -e "${ULINE}cd "$repo_path/_repo/$name_this_repo/"${NORMAL}" #repit commands
 # cd "$repo_path/_repo/$name_this_repo/" || e_exer "cd err" "$filename" "$LINENO"
-
 cdrepo $name_this_repo
 
 echo -e "${ULINE}git add .${NORMAL}" #repit commands
