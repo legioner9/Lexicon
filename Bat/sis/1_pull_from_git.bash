@@ -8,9 +8,9 @@ echo -e "${HLIGHT}---start file: $filename--${NORMAL}" # start file
 
 #e_exer "Questions? See far!" "$filename" "$LINENO"
 
-up_lib_git
+# up_lib_git
 
-e_git
+# e_git
 
 name_this_repo="$(basename $(dirname $(dirname "$(pwd)")))"
 echo -e "${GREEN}\$name_this_repo = $name_this_repo${NORMAL}" #print variable
