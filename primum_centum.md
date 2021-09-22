@@ -65,6 +65,8 @@
     explicationes - пояснения
     adipiscing    - склад
     locus         - помещение
+    superuacua    - избыточный
+    excessus      - лишний
 
 
     unus          - один
