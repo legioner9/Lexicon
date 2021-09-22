@@ -67,6 +67,10 @@
     locus         - помещение
     superuacua    - избыточный
     excessus      - лишний
+    apponere      - прикрепить
+    unpin         - открепить
+
+    
 
 
     unus          - один
