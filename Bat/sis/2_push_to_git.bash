@@ -15,14 +15,13 @@ echo -e "${HLIGHT}---start file: $filename--${NORMAL}" # start file
 
 # up_lib_git
 
-
 if [ $name_this_repo == "communis" ]; then
 
     echo -e "${ULINE}. $repo_path/_repo/$name_this_repo/Bat/sis/this_hooks.sh${NORMAL}" #repit commands
     . $repo_path/_repo/$name_this_repo/Bat/sis/this_hooks.sh
 
     echo -e "${ULINE}pre_push${NORMAL}" #repit commands
-    pre_push $repo_path $did
+    pre_push $repo_path $did # debag
 
     unset pre_push
 fi
@@ -35,9 +34,25 @@ echo -e "${ULINE}git add .${NORMAL}" #repit commands
 git add .
 
 echo -e "${ULINE}git commit${NORMAL}" #repit commands
-git commit
+git commit # debag
 
 echo -e "${ULINE}git push origin master${NORMAL}" #repit commands
 git push origin master
+
+echo -e "${ULINE}git push _bare master${NORMAL}" #repit commands
+git push _bare master
+
+for bare_path in "${bare_arr_path[@]}"; do
+
+    bare_name=$(basename "$bare_path")
+
+    echo -e "${ULINE}git push $bare_name master${NORMAL}" #repit commands
+    git push "$bare_name" master
+
+done
+
+unset name_this_repo
+
+unset bare_path
 
 unset filename

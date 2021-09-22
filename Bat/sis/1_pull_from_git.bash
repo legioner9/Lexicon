@@ -26,3 +26,5 @@ echo -e "${ULINE}git pull origin master${NORMAL}" #repit commands
 git pull origin master
 
 unset filename
+
+unset name_this_repo
