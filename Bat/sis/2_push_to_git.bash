@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# cd /home/st/ProjectRepo_2/_repo/communis/Bat/sis/ # debag
+
 . $HOME/.bashrc
 
 name_this_repo="$(basename $(dirname $(dirname "$(pwd)")))"

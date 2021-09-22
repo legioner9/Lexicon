@@ -37,7 +37,15 @@ pre_push() { # $1=$repo_path $2=$did
     rm -rf "$1/_repo/$name_this_repo/Sis_USER/$2/.qa"
 
     echo -e "${ULINE}cp -rf "$HOME/.qa" "$1/_repo/$name_this_repo/Sis_USER/$2/"${NORMAL}" #repit commands
-    cp -rf "$HOME/.qa" "$1/_repo/$name_this_repo/Sis_USER$2/"
+    cp -rf "$HOME/.qa" "$1/_repo/$name_this_repo/Sis_USER/$2/"
+
+
+    echo -e "${ULINE}rm -rf "$1/_repo/$name_this_repo/Sis_USER/$2/.qa"${NORMAL}" #repit commands
+    rm -rf "$1/_repo/$name_this_repo/Sis_USER/$2/sis"
+
+    echo -e "${ULINE}cp -rf "cp -rf "$1/_repo/name_this_repo/Bat/sis" "$1/_repo/$name_this_repo/Sis_USER/$2/""${NORMAL}" #repit commands
+    cp -rf "$1/_repo/$name_this_repo/Bat/sis" "$1/_repo/$name_this_repo/Sis_USER/$2/"
+
 
     echo -e "${ULINE}cp -rf "$HOME/.vscode" "$1/_repo/$name_this_repo/Store/Vs/$2/"${NORMAL}" #repit commands
     cp -rf "$HOME/.vscode" "$1/_repo/$name_this_repo/Store/Vs/$2/"
