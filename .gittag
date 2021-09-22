@@ -1,3 +1,4 @@
 # v.1.0.0
 # complete git_init.sh 
-# -> fix push in all bare (_bare Bare_1 Bare_2)
+# -> fix push in all bare (_bare Bare_1 Bare_2) 
+# ->> edit Bat/sis/2_push_to_git.bash
