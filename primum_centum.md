@@ -1,5 +1,7 @@
 ## primum centum
 
+    eligendi actiones -- выбор действий
+
     cessio        - передача
     intus         - внутренность
     paratus       - готов
@@ -69,6 +71,7 @@
     excessus      - лишний
     apponere      - прикрепить
     unpin         - открепить
+    dilectus      - выбор
 
     
 
