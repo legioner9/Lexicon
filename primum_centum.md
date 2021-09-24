@@ -72,6 +72,7 @@
     apponere      - прикрепить
     unpin         - открепить
     dilectus      - выбор
+    gremium       - глубь
 
     
 
