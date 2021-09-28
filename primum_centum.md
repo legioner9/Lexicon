@@ -78,6 +78,7 @@
     millstone     - мельничный камень
     molendinum    - мельница
     gurgite       - водоворот
+    finis         - цель
 
     
 
