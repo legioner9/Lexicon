@@ -1,6 +1,7 @@
 ## primum centum
 
     eligendi actiones -- выбор действий
+    
 
     cessio        - передача
     intus         - внутренность
@@ -73,6 +74,10 @@
     unpin         - открепить
     dilectus      - выбор
     gremium       - глубь
+    hydria        - кувшин
+    millstone     - мельничный камень
+    molendinum    - мельница
+    gurgite       - водоворот
 
     
 
