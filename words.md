@@ -5,3 +5,4 @@ finis   - цель
 fons    - источник
 succ    - успех
 defe    - провал
+conq    - набор
