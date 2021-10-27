@@ -79,7 +79,7 @@
     molendinum    - мельница
     gurgite       - водоворот
     finis         - цель
-
+    creo          - творить
     
 
 
