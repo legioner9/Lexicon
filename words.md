@@ -6,7 +6,7 @@
     succ           - успех
     defe           - провал
     conq           - набор
-    creo           - создавть
+    (cre)creo      - создавть
     (tis)          - тест
     (tmp)tempus    - временный
     (vex)illum     - эталон
