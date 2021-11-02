@@ -22,4 +22,4 @@
     (diff)differentia  - различие
     (defi)definitio    - определение
     (part)partitio     - классификация
-    
+    (tabu)tabulatum    - этаж
