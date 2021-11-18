@@ -80,6 +80,10 @@
     gurgite       - водоворот
     finis         - цель
     creo          - творить
+    indefinita    - неопределенный
+    suus          - свой
+    auctor        - автор
+    meus          - мой
     
 
 

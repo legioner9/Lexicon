@@ -23,3 +23,4 @@
     (defi)definitio    - определение
     (part)partitio     - классификация
     (tabu)tabulatum    - этаж
+    (impl)implens      - наполнение
