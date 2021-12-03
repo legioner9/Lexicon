@@ -2,7 +2,7 @@
     (apn)appon         - прикреп
     (upn)unpin         - откреп
     (fis)finis         - цель
-    fons               -  источник
+    fons               - источник
     succ               - успех
     defe               - провал
     conq               - набор
