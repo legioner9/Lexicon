@@ -25,3 +25,4 @@
     (tabu)tabulatum    - этаж
     (impl)implens      - наполнение
     (mxe)maxime        - важнейший
+    (rcr)recreare      - пересобрать

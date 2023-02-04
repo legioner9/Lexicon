@@ -84,6 +84,8 @@
     suus          - свой
     auctor        - автор
     meus          - мой
+    compono       - строить
+    recreare      - воссоздавать
     
 
 
