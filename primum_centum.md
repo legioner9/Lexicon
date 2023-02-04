@@ -86,7 +86,7 @@
     meus          - мой
     compono       - строить
     recreare      - воссоздавать
-    
+    obsido        - вкладывать
 
 
     unus          - один

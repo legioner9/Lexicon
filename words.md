@@ -26,3 +26,5 @@
     (impl)implens      - наполнение
     (mxe)maxime        - важнейший
     (rcr)recreare      - пересобрать
+    (obs)obsido        - вкладывать
+    (quis)quis         - любой, каждый
