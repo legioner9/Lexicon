@@ -87,6 +87,7 @@
     compono       - строить
     recreare      - воссоздавать
     obsido        - вкладывать
+    invenire      - отыскивать
 
 
     unus          - один

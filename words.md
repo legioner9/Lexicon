@@ -28,3 +28,4 @@
     (rcr)recreare      - пересобрать
     (obs)obsido        - вкладывать
     (quis)quis         - любой, каждый
+    (ine)invenire      - отыскивать
