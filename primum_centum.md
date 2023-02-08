@@ -88,6 +88,8 @@
     recreare      - воссоздавать
     obsido        - вкладывать
     invenire      - отыскивать
+    upgrade       - обновлять
+    
 
 
     unus          - один
