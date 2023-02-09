@@ -29,3 +29,4 @@
     (obs)obsido        - вкладывать
     (quis)quis         - любой, каждый
     (ine)invenire      - отыскивать
+    (ante)ante         - до, предварительно

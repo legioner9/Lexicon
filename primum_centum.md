@@ -89,7 +89,7 @@
     obsido        - вкладывать
     invenire      - отыскивать
     upgrade       - обновлять
-    
+    ante          - до
 
 
     unus          - один
