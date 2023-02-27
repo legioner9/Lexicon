@@ -31,3 +31,4 @@
     (ine)invenire      - отыскивать
     (ante)ante         - до, предварительно
     (ratis)ratis       - плот
+    (quod)quod         - входящая очередь
