@@ -94,6 +94,8 @@
     ortus         - происхождение
     quod          - очередь
     simplex       - простой
+    libellus      - книжка
+    pebbles       - галька
 
 
     unus          - один
