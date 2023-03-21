@@ -96,6 +96,7 @@
     simplex       - простой
     libellus      - книжка
     pebbles       - галька
+    pluteum       - полка
 
 
     unus          - один
