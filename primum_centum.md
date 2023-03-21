@@ -97,7 +97,7 @@
     libellus      - книжка
     pebbles       - галька
     pluteum       - полка
-
+    finitor       - горизонт
 
     unus          - один
     duo           - два
