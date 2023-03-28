@@ -32,3 +32,4 @@
     (ante)ante         - до, предварительно
     (ratis)ratis       - плот
     (quod)quod         - входящая очередь
+    (fco)facio         - делать
