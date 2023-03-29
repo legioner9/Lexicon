@@ -98,7 +98,8 @@
     pebbles       - галька
     pluteum       - полка
     finitor       - горизонт
-
+    scena         - сцена
+    
     unus          - один
     duo           - два
     tres          - три
