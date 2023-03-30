@@ -33,3 +33,4 @@
     (ratis)ratis       - плот
     (quod)quod         - входящая очередь
     (fco)facio         - делать
+    (nar)narratio      - рассказ
