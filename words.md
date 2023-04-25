@@ -34,3 +34,4 @@
     (quod)quod         - входящая очередь
     (fco)facio         - делать
     (nar)narratio      - рассказ
+    (tdec)table de contenu - оглавление
