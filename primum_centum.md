@@ -99,6 +99,9 @@
     pluteum       - полка
     finitor       - горизонт
     scena         - сцена
+    arca          - ящик
+    repono        - кладовка
+    
     
     unus          - один
     duo           - два
