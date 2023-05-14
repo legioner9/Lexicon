@@ -101,7 +101,7 @@
     scena         - сцена
     arca          - ящик
     repono        - кладовка
-    
+    rota          - руль
     
     unus          - один
     duo           - два
