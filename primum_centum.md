@@ -102,6 +102,10 @@
     arca          - ящик
     repono        - кладовка
     rota          - руль
+    alius         - другой
+    hospes        - гость
+    lapis         - камень
+    pala          - лопата
     
     unus          - один
     duo           - два
