@@ -106,6 +106,7 @@
     hospes        - гость
     lapis         - камень
     pala          - лопата
+    notam         - клеймо
     
     unus          - один
     duo           - два

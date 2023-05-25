@@ -35,3 +35,4 @@
     (fco)facio         - делать
     (nar)narratio      - рассказ
     (tdec)table de contenu - оглавление 
+    (no)ta(m)          - тег
