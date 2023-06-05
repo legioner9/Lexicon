@@ -36,4 +36,5 @@
     (nar)narratio      - рассказ
     (tdec)table de contenu - оглавление 
     (no)ta(m)          - тег
-    (s)i(tu)               - окружение, среда
+    (s)i(tu)           - окружение, среда
+    [nen]t [ci]rcus    - цикл = вращение по кругу

@@ -107,6 +107,8 @@
     lapis         - камень
     pala          - лопата
     notam         - клеймо
+    nent          - вертеться
+    circus        - круг
     
     unus          - один
     duo           - два
