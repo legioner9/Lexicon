@@ -111,6 +111,7 @@
     circus        - круг
     aranea        - паутина
     rete          - сеть
+    forma         - составить
     
     unus          - один
     duo           - два
