@@ -109,6 +109,8 @@
     notam         - клеймо
     nent          - вертеться
     circus        - круг
+    aranea        - паутина
+    rete          - сеть
     
     unus          - один
     duo           - два
