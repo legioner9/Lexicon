@@ -112,6 +112,7 @@
     aranea        - паутина
     rete          - сеть
     forma         - составить
+    axon          - ось
     
     unus          - один
     duo           - два
