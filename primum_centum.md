@@ -113,6 +113,7 @@
     rete          - сеть
     forma         - составить
     axon          - ось
+    lex           - закон
     
     unus          - один
     duo           - два
