@@ -114,7 +114,9 @@
     forma         - составить
     axon          - ось
     lex           - закон
-    
+    tessera       - табличка
+    furca         - развилка
+
     unus          - один
     duo           - два
     tres          - три
