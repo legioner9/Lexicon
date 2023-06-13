@@ -116,6 +116,10 @@
     lex           - закон
     tessera       - табличка
     furca         - развилка
+    malleus       - молот
+    culter        - нож
+    raquel        - ракель
+    aguer         - шнек
 
     unus          - один
     duo           - два
