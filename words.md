@@ -57,11 +57,25 @@
                           - gign dir - порождающая директория
     [grad]us           - степень 
     [clie]ntela        - зависимость
-                          - grad clie: prim secu mall raqu
+                          - grad clie: prim secu mall raqu ague
     [syll]aba          - слог - код
                           - grad syll: higt shor
 
     [sal]             - соль, изменяемые файлы для неизменной обертки
-    axon              - ось
+                         - .sal
+    [ax]on            - ось
                          - name_nod.ax.ext нередактируемый - только генерируемый
                             - name_nod.ext2.ext структура расширений
+
+    [scae]na          - этап, градации развития взаимозамещающих качеств (используемый но неразвитый ... развитый но неиспользуемый)
+
+    [veri]ficatur     - проверенный, прошлый но используемый, готовый к использованию всеми, продукт
+    [prov]vectus      - опережающий, настоящий но неиспользуемый, измененный, тестируемый, в работе
+    [absc]endentia    - перспектива, будущий но не будет использован, желаемый, обсуждаемый, идея
+
+    scae_relevance__possibility_of_using: veri prov absc
+    scae_complexity_stucture_syll__ease_of_use: prim secu mall raqu ague
+
+    [camp]us          - поле, набор разных относящихся к одному
+
+    camp_type_tst: fs_compare exec_compare
