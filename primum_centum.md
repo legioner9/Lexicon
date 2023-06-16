@@ -120,6 +120,7 @@
     culter        - нож
     raquel        - ракель
     aguer         - шнек
+    caelum        - небо
 
     unus          - один
     duo           - два
