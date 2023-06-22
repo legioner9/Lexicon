@@ -79,3 +79,5 @@
     [camp]us          - поле, набор разных относящихся к одному
 
     camp_type_tst: fs_compare exec_compare
+
+    [nid]us             - гнездо, api wrapper

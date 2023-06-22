@@ -121,6 +121,7 @@
     raquel        - ракель
     aguer         - шнек
     caelum        - небо
+    nidus         - гнездо
 
     unus          - один
     duo           - два
