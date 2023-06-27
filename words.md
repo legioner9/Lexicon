@@ -81,3 +81,4 @@
     camp_type_tst: fs_compare exec_compare
 
     [nid]us             - гнездо, api wrapper
+    [cir]cus            - inner env
