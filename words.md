@@ -42,7 +42,9 @@
                          - frm_... name fn thear bild for algor 
     [rete]             - сеть
     [f]u[rc]a          - развилка, по именам функций
-                          - .frc
+                            - .frc
+    [ab]u[m]brare        - набросок, сайт
+                            - .abm
 
     [prim]us           - utils after unix
     [secu]ndo          - utils after prim, pst_unix

@@ -122,6 +122,7 @@
     aguer         - шнек
     caelum        - небо
     nidus         - гнездо
+    abumbrare     - набросок
 
     unus          - один
     duo           - два
@@ -153,9 +154,7 @@
     quam vincere  - как побеждать
 
     
-##
-##
-##
+
 
 
 
