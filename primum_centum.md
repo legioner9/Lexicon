@@ -123,6 +123,7 @@
     caelum        - небо
     nidus         - гнездо
     abumbrare     - набросок
+    gigno         - рождать
 
     unus          - один
     duo           - два
