@@ -85,3 +85,5 @@
     [nid]us             - гнездо, api wrapper
     [cir]cus            - inner env
     [oll]am             - горшок, contaner for name main.sh -> main.d.oll
+
+    [tun]ica         - туника обертка
