@@ -129,6 +129,7 @@
     suplatio      - anty sublatio
     minoris       - занижение
     majoris       - занижение
+    caelum        - небеса, абстракция
 
     unus          - один
     duo           - два
