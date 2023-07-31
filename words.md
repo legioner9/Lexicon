@@ -55,8 +55,8 @@
     [higt]l            - высокий, системный (syll), system code function
     [shor]t            - низкий, подсистемный (syll), use code function
 
-    [gign]o            - рождать, объемлющий элемент к существующему
-                          - gign dir - порождающая директория
+    [gig]no            - рождать, объемлющий элемент к существующему
+                          - gig dir - порождающая директория
     [grad]us           - степень 
     [clie]ntela        - зависимость
                           - grad clie: prim secu mall raqu ague
@@ -87,3 +87,10 @@
     [oll]am             - горшок, contaner for name main.sh -> main.d.oll
 
     [tun]ica         - туника обертка
+
+    {mnr}            - minor
+        mnr_abstr        - понижение абстракции
+    {mjr}            - major
+        mjr_abstr        - повышение абстракции
+    {sub}            - 
+    {sup}            - 

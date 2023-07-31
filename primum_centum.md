@@ -124,6 +124,11 @@
     nidus         - гнездо
     abumbrare     - набросок
     gigno         - рождать
+    districtus    - стриктура, понижение уровня абстракции
+    sublatio      - возвышение
+    suplatio      - anty sublatio
+    minoris       - занижение
+    majoris       - занижение
 
     unus          - один
     duo           - два
