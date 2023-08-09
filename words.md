@@ -86,6 +86,8 @@
     [cir]cus            - inner env
     [oll]am             - горшок, contaner for name main.sh -> main.d.oll
 
+    [p]ro[to]        - прототип чего либо
+
     [tun]ica         - туника обертка
 
     {mnr}            - minor
