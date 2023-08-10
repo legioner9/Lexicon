@@ -130,6 +130,7 @@
     minoris       - занижение
     majoris       - занижение
     caelum        - небеса, абстракция
+    obex          - запор
 
     unus          - один
     duo           - два

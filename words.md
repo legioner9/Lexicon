@@ -46,6 +46,9 @@
     [ab]u[m]brare        - набросок, сайт
                             - .abm
 
+    [ob]e[x]           - запор, зарезервированные переменные и тд
+                            - .obx
+
     [prim]us           - utils after unix
     [secu]ndo          - utils after prim, pst_unix
     [mall]er           - молоток, utils after secundo, pst_secu
