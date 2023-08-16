@@ -132,6 +132,7 @@
     caelum        - небеса, абстракция
     obex          - запор
     elige         - выбрать
+    capella       - капелла
 
     unus          - один
     duo           - два
