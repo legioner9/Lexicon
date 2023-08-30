@@ -133,6 +133,7 @@
     obex          - запор
     elige         - выбрать
     capella       - капелла
+    nobis         - нуб
 
     unus          - один
     duo           - два
