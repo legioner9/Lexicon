@@ -134,6 +134,8 @@
     elige         - выбрать
     capella       - капелла
     nobis         - нуб
+    vae           - беда
+    janua         - вступление
 
     unus          - один
     duo           - два

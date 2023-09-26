@@ -107,3 +107,11 @@
                          - .cpl файлы сборки с {replacer}
 
     [nob]            - для новичков
+
+    CRUD+
+    
+    [pull]           - to local
+    [push]           - from local
+
+    [bull]           - to host deploy
+    [bush]           - from host 
