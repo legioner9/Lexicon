@@ -136,6 +136,14 @@
     nobis         - нуб
     vae           - беда
     janua         - вступление
+    lignum        - посох
+    auxilium      - помощь
+    admonitus     - подсказка
+    dico          - сказать
+    ecce          - смотри
+    legitur       - читай
+    loqui         - говори
+
 
     unus          - один
     duo           - два
