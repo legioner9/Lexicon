@@ -143,6 +143,8 @@
     ecce          - смотри
     legitur       - читай
     loqui         - говори
+    ante          - до
+    post          - после
 
 
     unus          - один
