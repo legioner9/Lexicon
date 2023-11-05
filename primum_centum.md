@@ -146,6 +146,11 @@
     ante          - до
     post          - после
     ave           - здравствуй
+    facio         - делать
+
+    obiectum      - объект
+    subiectum     - субъект
+    productum     - продукт
 
 
     unus          - один

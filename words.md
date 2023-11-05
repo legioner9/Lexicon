@@ -115,3 +115,8 @@
 
     [bull]           - to host deploy
     [bush]           - from host 
+
+    [obc] obiectum      - [аргументы] объект
+    [sub] subiectum     - [процедура] субъект
+    [aer] aer           - [окружение] воздух
+    [ppr] productum     - [глобальная ссылка на результат] продукт
