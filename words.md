@@ -116,7 +116,11 @@
     [bull]           - to host deploy
     [bush]           - from host 
 
+    [mdul] medulla      - [движок] мозг
+
     [obc] obiectum      - [аргументы] объект
     [sub] subiectum     - [процедура] субъект
     [aer] aer           - [окружение] воздух
     [ppr] productum     - [глобальная ссылка на результат] продукт
+
+    [sag] sagitta       - [набор файлов] стрела
