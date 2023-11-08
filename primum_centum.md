@@ -151,6 +151,8 @@
     obiectum      - объект
     subiectum     - субъект
     productum     - продукт
+    folio         - фолиант
+    folium        - лист
 
 
     unus          - один
