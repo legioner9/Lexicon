@@ -167,10 +167,15 @@
     quartus       - четвертый
     quintus       - пятый
 
+    phylum        - тип
+    vis           - суть
+    ora           - край
+    silva         - лес
     arbor         - дерево
     truncus       - ствол
     ramus         - ветвь
     folium        - лист
+    bud           - бутон
 
 
     prototypum    - прототип
