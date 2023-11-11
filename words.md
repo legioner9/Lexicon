@@ -125,4 +125,6 @@
 
     [sag] sagitta       - [набор файлов] стрела
 
-    [fol] folio folium  - [набор .fol] фолиант лист         
+    [fol] folio folium  - [набор .fol] фолиант лист   
+    [hum] humus         - [место роста] почва
+    [lux] lux           - [выявление - sh, local dinamic lst, etset. ] 
