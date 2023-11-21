@@ -154,6 +154,8 @@
     folio         - фолиант
     folium        - лист
 
+    colloquium    - разговор
+
 
     unus          - один
     duo           - два

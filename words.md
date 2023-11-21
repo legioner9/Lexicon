@@ -129,3 +129,5 @@
     [hum] humus         - [место роста] почва
     [lux] lux           - [выявление - sh, local dinamic lst, etset. ] 
     [grot] grotto       - [inner dir] грот
+
+    [coll]colloquium    - разговор
