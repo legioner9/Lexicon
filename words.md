@@ -133,3 +133,5 @@
     [coll]colloquium    - разговор
     [pett]petitum       - [запрос] просьба
     [rfl]reflexum       - [ответ] рефлекс
+
+    [mitt] mitto        - [вставить] бросать 
