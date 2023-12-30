@@ -139,3 +139,4 @@
     [arn] arena         - [песочница] песок
     [sgm] segmentum     - [образец] сегмент
     [bale] bale         - [сет] тюк
+    [soff] sofferre     - [пробовать] мучиться
