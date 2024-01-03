@@ -142,3 +142,4 @@
     [soff] sofferre     - [пробовать] мучиться
     [opi] opibus        - [git] ресурсы
     [nm] nomenclatura   - [меню] список
+    [ham] hamo          - [хук] крюк 
