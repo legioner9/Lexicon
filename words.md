@@ -151,3 +151,5 @@
     [eus] eusimod       - [экранирование] проедставление
     [rgx] regex         - regex
     [ptr] pointer       - [имя] указатель идентификатор
+    [elg] elige         - [выбрать] 
+    [scr] secare        - [вырезать]
