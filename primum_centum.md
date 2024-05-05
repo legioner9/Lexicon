@@ -191,6 +191,9 @@
     utere casu    - используйте кейс
     quam vincere  - как побеждать
 
+    ossa          - остов
+    
+
     
 
 
