@@ -158,4 +158,5 @@
     [pau] promptus ad usum - готов к использованию
     [oss] ossa          - [проект] остов 
 
-    
+    [duet] duetto       - [sync] дуэтом
+    [coro] coro         - [root] в одиночку
