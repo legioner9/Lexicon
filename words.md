@@ -160,3 +160,5 @@
 
     [duet] duetto       - [sync] дуэтом
     [coro] coro         - [root] в одиночку
+
+    [diss] dissento     - [разногласие] различие
