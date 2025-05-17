@@ -192,6 +192,7 @@
     quam vincere  - как побеждать
 
     ossa          - остов
+    primus gradus - первые шаги
     
 
     
